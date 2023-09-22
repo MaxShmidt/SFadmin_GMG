@@ -1,0 +1,7 @@
+nginx/
+<<<<<<< HEAD
+nginx/
+ansible/playbooks/script.yml 
+=======
+ansible/playbooks/script.yml
+>>>>>>> ansible-web
